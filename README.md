@@ -1,1 +1,1 @@
-## Capítulos de Black Hat Python
+## Capítulos de Black Hat Python 2da Edición
